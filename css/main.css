@@ -1,0 +1,21 @@
+body {
+  overflow: hidden;
+}
+
+/*.logo-name{
+  padding-left: 10px;
+}*/
+
+.side-navigation {
+  height: 650px;
+  background-color: #336600;
+}
+
+.content-section {
+  height: 650px;
+  background-color: grey;
+}
+
+.home-left {
+  margin-top: 10%;
+}
